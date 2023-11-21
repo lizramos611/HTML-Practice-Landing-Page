@@ -5,23 +5,27 @@
 }
 
 header{
-    background-color: #013A40; 
+    background-color: #21BFA2; 
     padding: 20px;
     text-align: right;
-   
+    border-bottom: #014040 10px solid;
+    position: fixed;
+    width: 100%;
 }
+
+
 a, a:visited {
     text-decoration: none;
-    color: #7BA6A6;
+    color: #011826;
 
 }
 a:hover{
-    color: #011F26;
+    color: #011826;
 }
-li{
+.nav{
     display: inline;
-    padding: 35px;
     font-size: 20px;
+    padding: 35px;
 
 }
 h1{
@@ -29,14 +33,43 @@ h1{
     padding: 20px;
     font-size: 30px;
     text-decoration: underline;
+    color: #14A6A6;
 }
 .photo{
-    background-color: #7BA6A6;
+    background-color: #011F26;
 }
 img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    
+}
+p{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-bottom: 40px;
+    color: whitesmoke;
+}
+.contact{
+    background-color: #7BA6A6;
+    padding-bottom: 20px;
+    
+
+}
+.contactme{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contactblock{
+    display: block;
+}
+footer{
+    background-color: #21BFA2; 
+ 
 }
