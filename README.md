@@ -1,6 +1,6 @@
 # HTML Mini Project
 
-
+[Visit the Site Here!](https://lizramos611.github.io/miniprojectHTML/#contact)
 
   ## Table of Contents
  * [Description](#description)
