@@ -1,4 +1,4 @@
-# HTML Mini Project
+# HTML Mini Project Landing Page
 
 [Visit the Site Here!](https://lizramos611.github.io/miniprojectHTML/)
 <img width="1424" alt="Screenshot 2023-11-21 at 10 06 53 PM" src="https://github.com/lizramos611/miniprojectHTML/assets/111591265/9dfd498f-94aa-4c39-8204-c0c9cf48b863">
