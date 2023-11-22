@@ -1,10 +1,9 @@
 # HTML Mini Project
 
 [Visit the Site Here!](https://lizramos611.github.io/miniprojectHTML/)
+<img width="1424" alt="Screenshot 2023-11-21 at 10 06 53 PM" src="https://github.com/lizramos611/miniprojectHTML/assets/111591265/9dfd498f-94aa-4c39-8204-c0c9cf48b863">
+<img width="1432" alt="Screenshot 2023-11-21 at 10 07 08 PM" src="https://github.com/lizramos611/miniprojectHTML/assets/111591265/b176e4be-5dae-47b1-b767-1c689a4e6304">
 
-<img width="1440" alt="Screenshot 2023-11-21 at 10 04 47 PM" src="https://github.com/lizramos611/miniprojectHTML/assets/111591265/2e7ae67f-aa95-4456-87ab-99775c03e541">
-
-<img width="1440" alt="Screenshot 2023-11-21 at 10 04 53 PM" src="https://github.com/lizramos611/miniprojectHTML/assets/111591265/8cf305a9-ca42-4702-87e4-c49c0f974a78">
 
   ## Table of Contents
  * [Description](#description)
