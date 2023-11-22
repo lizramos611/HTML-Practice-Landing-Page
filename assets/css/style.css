@@ -3,7 +3,7 @@
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+/* header, links, nav bar */
 header{
     background-color: #21BFA2; 
     padding: 20px;
@@ -11,24 +11,25 @@ header{
     border-bottom: #014040 10px solid;
     position: fixed;
     width: 100%;
-
 }
-
 
 a, a:visited {
     text-decoration: none;
     color: #011826;
-
 }
+
 a:hover{
     color: whitesmoke;
 }
+
 .nav{
     display: inline;
     font-size: 20px;
     padding: 35px;
-
 }
+
+/* photo and title section */
+
 h1{
     text-align: center;
     padding: 20px;
@@ -40,6 +41,7 @@ h1{
 .photo{
     background-color: #011F26;
 }
+
 img{
     width: 300px;
     height: 300px;
@@ -48,8 +50,8 @@ img{
     margin-right: auto;
     margin-bottom: 50px;
     border-radius: 20px;
-    
 }
+/* filler text */
 p{
     text-align: center;
     margin-right: 100px;
@@ -57,6 +59,8 @@ p{
     padding-bottom: 40px;
     color: whitesmoke;
 }
+
+/* contact me box with input for name and email and button */
 .contact{
     background-color: #7BA6A6;
     padding-bottom: 20px;
@@ -84,21 +88,22 @@ form{
     padding: 10px;
     width: 500px;
     border: #011826 solid 2px;
-    border-radius: 15px;
-    
-   
+    border-radius: 15px;   
 }
-footer{
-    background-color: #21BFA2; 
-    padding-top: 20px;
-    border-top:#014040 solid 10px;
 
-    
-}
 button{
     display: block;
     margin: 0 auto;
     font-size: 15px;
     margin-top: 10px;
+    
+}
+
+/* footer */
+footer{
+    background-color: #21BFA2; 
+    padding-top: 20px;
+    border-top:#014040 solid 10px;
+
     
 }
